@@ -1,6 +1,7 @@
 ### Hi I am Mo != mo :)))
 
-![image]([https://mfuzzy.com/github/dino.gif](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg))
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mkasaii16&theme=merko)
 
