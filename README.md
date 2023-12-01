@@ -6,8 +6,6 @@
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mokasaei&theme=merko)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkasaii16&show_icons=true&theme=merko)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkasaii16&theme=merko&layout=compact)
 
 
