@@ -1,7 +1,8 @@
 ### Hi I am Mo != mo :))) 
 
-> [!EMAIL]
-> mkasaii16@gmail.com info@mfuzzy.com
+[!EMAIL]
+mkasaii16@gmail.com
+info@mfuzzy.com
 
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
