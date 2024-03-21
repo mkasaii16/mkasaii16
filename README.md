@@ -1,9 +1,9 @@
 ### Hi I am Mo != mo :))) 
 
-  <a href="https://mfuzzy.com">
+  <a href="mkasaii16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-mkasaii16@gmail.com
+
 info@mfuzzy.com
 
 
