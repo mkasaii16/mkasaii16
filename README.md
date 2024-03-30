@@ -4,14 +4,15 @@ Flutter Dart | Swift | Python ( ML [ NLP ] )
 
 Contact: 
 
-
   <a href="mailto:mkasaii16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
+
   
-  <a href="mailto:info@mfuzzy.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
+<form action="https://www.kaggle.com/moienkasaii">
+    <input type="submit" value="Kaggle Profile" />
+</form>
+  
   
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
