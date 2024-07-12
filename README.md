@@ -18,10 +18,11 @@ Contact:
 
 <p align="center">
   <a href="https://mfuzzy.com">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,swift&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,swift,react&theme=dark" />
   </a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkasaii16&theme=merko&layout=compact)
 
 
+[![](https://visitcount.itsvg.in/api?id=mkasaii16&label=V&color=2&icon=6&pretty=true)](https://visitcount.itsvg.in)
