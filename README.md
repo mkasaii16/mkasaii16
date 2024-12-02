@@ -21,8 +21,3 @@ Contact:
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,swift,react&theme=dark" />
   </a>
 </p>
-
-
-
-
-[![](https://visitcount.itsvg.in/api?id=mkasaii16&label=V&color=2&icon=6&pretty=true)](https://visitcount.itsvg.in)
