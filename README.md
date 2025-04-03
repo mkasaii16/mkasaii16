@@ -18,6 +18,6 @@ Contact:
 
 <p align="center">
   <a href="https://mfuzzy.com">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,swift,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,python&theme=dark" />
   </a>
 </p>
