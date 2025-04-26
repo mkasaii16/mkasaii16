@@ -1,5 +1,5 @@
 ### Hi I am Mo != mo :))) 
-Flutter Dart | Swift | Python ( ML [ NLP ] ) 
+
 
 <a href="https://www.kaggle.com/moienkasaii">
     <button>Kaggle Profile</button>
