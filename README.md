@@ -40,13 +40,9 @@ Travel deep into space and gain a new perspective on the universe.
 
 ---
 
-<a href="https://www.kaggle.com/moienkasaii">
-    <button>Kaggle Profile</button>
-</a>
+[Kaggle]([mailto:info@mfuzzy.com](https://www.kaggle.com/moienkasaii))
 
----
-
-[Contact](mailto:info@mfuzzy.com)
+[Contact @](mailto:info@mfuzzy.com)
 
 ---
 
