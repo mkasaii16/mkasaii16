@@ -14,6 +14,10 @@ Contact:
 
 Ramesh is a simple and practical application for achieving peace of mind and reducing daily stress.
 <a href="https://aramesh.space" download>Visit Ramesh</a>
+
+  <a href="https://aramesh.space">
+    <img src="https://aramesh.space/wp-content/uploads/2025/03/cropped-image-2.png" />
+  </a>
      
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
