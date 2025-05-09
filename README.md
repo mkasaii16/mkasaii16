@@ -1,4 +1,4 @@
-<h6 align="center">Hi, I am Mo ≠ mo :)</h6>
+<h1 align="center">Hi, I am Mo ≠ mo :)</h1>
 <p align="center">
 Creative Developer • Space Lover • AI Explorer • Code Artist
 </p>
@@ -30,11 +30,13 @@ Travel deep into space and gain a new perspective on the universe.
   </a>
 </p>
 
-### ---
+---
 
 <a href="https://www.kaggle.com/moienkasaii">
     <button>Kaggle Profile</button>
 </a>
+
+---
 
 Contact: 
 
@@ -45,6 +47,8 @@ Contact:
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mkasaii16&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 <p align="center">
   <a href="https://mfuzzy.com">
