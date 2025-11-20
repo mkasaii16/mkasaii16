@@ -19,8 +19,8 @@ Ramesh is a simple and practical application for achieving peace of mind and red
 [Visit Ramesh](https://aramesh.space)
 
 <p align="center">
-  <a href="https://aramesh.space">
-    <img src="https://aramesh.space/wp-content/uploads/2025/03/cropped-image-2.png" width="100" height="100" />
+  <a href="https://ramesh-app.ir">
+    <img src="https://ramesh-app.ir/wp-content/uploads/2025/06/logo-1.png" width="100" height="100" />
   </a>
 </p>
 
