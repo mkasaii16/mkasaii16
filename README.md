@@ -16,7 +16,7 @@ Creative Developer • Space Lover • AI Explorer • Code Artist
 ### Ramesh — Peaceful Mind App
 
 Ramesh is a simple and practical application for achieving peace of mind and reducing daily stress.  
-[Visit Ramesh](https://aramesh.space)
+[Visit Ramesh](https://ramesh-app.ir)
 
 <p align="center">
   <a href="https://ramesh-app.ir">
