@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I am Mo ≠ mo :)</h1>
 <p align="center">
-Creative Developer • Space Lover • AI Explorer • Code Artist
+Creative Developer • Space Lover • AI Explorer
 </p>
 
 ---
 
 <p align="center">
   <a href="https://mfuzzy.com">
-    <img src="https://skillicons.dev/icons?i=swift,python,flutter&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,python,kotlin,react,flutter&theme=dark" />
   </a>
 </p>
 
