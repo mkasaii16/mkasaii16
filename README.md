@@ -11,7 +11,14 @@ Creative Developer • Space Lover • AI Explorer
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.kaggle.com/moienkasaii">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+  </a>
+ 
+
 ---
+<h1 align="center">My personal projects</h1>
 
 ### Ramesh — Peaceful Mind App
 
@@ -38,13 +45,19 @@ Travel deep into space and gain a new perspective on the universe.
   </a>
 </p>
 
----
-
-[Kaggle](https://www.kaggle.com/moienkasaii)
-
-[@Contact Email](mailto:info@mfuzzy.com)
 
 ---
+
+
+## Let's Work Together
+
+Have an idea or a project you'd like to bring to life? I'd be happy to hear about it. Feel free to contact me at:
+
+📧 [MY EMAIL](mailto:mkasai16@gmail.com)
+
+
+---
+
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
